@@ -7,15 +7,9 @@ This repository contains my solutions to various LeetCode problems, implemented 
 
 Directory Structure
 LeetCode-Solutions/
-├── Python/
-│   ├── Easy/
-│   ├── Medium/
-│   ├── Hard/
-├── C++/
-│   ├── Easy/
-│   ├── Medium/
-│   ├── Hard/
-└── README.md
+Python/
+C++/
+
 
 Problem List
 
