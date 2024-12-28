@@ -6,8 +6,11 @@ LeetCode Solutions
 This repository contains my solutions to various LeetCode problems, implemented in Python and C++. The solutions are organized by programming language and difficulty level.
 
 Directory Structure
+
 LeetCode-Solutions/
+
 Python/
+
 C++/
 
 
